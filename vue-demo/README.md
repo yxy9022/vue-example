@@ -30,7 +30,7 @@ vue-demo-server工程下初始化相关组件，执行命令：
 (4) vue-demo访问后端接口地址。
     可以到 /src/config/index.js中去配置。
     开发环境：http://127.0.0.1:8500/api
-    生成环境：http://vue.ipyro.cn/api
+    生产环境：http://vue.ipyro.cn/api
 
 4、项目启动及发布：
 （1）vue-demo启动.
